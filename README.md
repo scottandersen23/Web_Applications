@@ -1,5 +1,5 @@
 # Web_Applications
 
-JavaScript projects
+## JavaScript Projects
 
 ![javaScript](morning_java.png)
