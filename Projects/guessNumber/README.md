@@ -11,3 +11,5 @@ Tools used:
 3. JavaScript
 4. CSS
 5. HTML
+
+![guessNumber](Guess_Number.png)
