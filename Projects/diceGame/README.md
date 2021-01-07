@@ -1,5 +1,7 @@
 ## A JavaScript game in which 2 players will try to get to a score of 100 first.
 
+#### Project guidance by Jonas Schmedtmann
+
 Rules:
 
 1. Player 1 rolls first
